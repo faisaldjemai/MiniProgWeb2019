@@ -1,0 +1,39 @@
+body{
+    background-color: #888
+    
+}
+.container{
+    width: 1024px;
+    margin: auto;
+}
+
+/* Start navbar*/
+.navbar{
+    background-color:#252F31;
+    color:#FFF;
+    overflow: hidden;
+   
+    
+}
+.navbar h2{
+    float:left;
+    text-transform: uppercase;
+}
+.navbar h2 span{
+    color: aqua;
+}
+.navbar ul {
+    list-style:none;
+    padding-left: 0;
+    float:right;
+      
+    
+}
+
+.navbar ul li {
+    padding: 10px;
+    float:left; 
+}
+
+
+/*End navbar*/
